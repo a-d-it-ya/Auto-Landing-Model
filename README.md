@@ -1,9 +1,9 @@
 
 
-https://github.com/user-attachments/assets/bb50f0c6-4ab5-4dac-90e0-5d733af13d8f
+
 
 # Auto-Landing Model: Reward Shaping on Lunar Lander
-
+https://github.com/user-attachments/assets/bb50f0c6-4ab5-4dac-90e0-5d733af13d8f
 I trained a PPO agent to land a rocket in Gymnasium's `LunarLander-v3`, then changed **only the reward** to show how reward design controls behavior. A badly designed reward made the agent hover forever instead of landing (reward hacking). A better-designed one fixed it.
 
 Same rocket, same network, same learning algorithm. Different points, different behavior.
